@@ -1,0 +1,15 @@
+C:\Users\Windows 10\Desktop\ZNOP_APRENDIZ\PEDRO\calcular MIC\calcular MIC\bin\Debug\netcoreapp3.1\calcular MIC.exe
+C:\Users\Windows 10\Desktop\ZNOP_APRENDIZ\PEDRO\calcular MIC\calcular MIC\bin\Debug\netcoreapp3.1\calcular MIC.deps.json
+C:\Users\Windows 10\Desktop\ZNOP_APRENDIZ\PEDRO\calcular MIC\calcular MIC\bin\Debug\netcoreapp3.1\calcular MIC.runtimeconfig.json
+C:\Users\Windows 10\Desktop\ZNOP_APRENDIZ\PEDRO\calcular MIC\calcular MIC\bin\Debug\netcoreapp3.1\calcular MIC.runtimeconfig.dev.json
+C:\Users\Windows 10\Desktop\ZNOP_APRENDIZ\PEDRO\calcular MIC\calcular MIC\bin\Debug\netcoreapp3.1\calcular MIC.dll
+C:\Users\Windows 10\Desktop\ZNOP_APRENDIZ\PEDRO\calcular MIC\calcular MIC\bin\Debug\netcoreapp3.1\calcular MIC.pdb
+C:\Users\Windows 10\Desktop\ZNOP_APRENDIZ\PEDRO\calcular MIC\calcular MIC\obj\Debug\netcoreapp3.1\calcular MIC.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\ZNOP_APRENDIZ\PEDRO\calcular MIC\calcular MIC\obj\Debug\netcoreapp3.1\calcular_MIC.Form1.resources
+C:\Users\Windows 10\Desktop\ZNOP_APRENDIZ\PEDRO\calcular MIC\calcular MIC\obj\Debug\netcoreapp3.1\calcular MIC.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\ZNOP_APRENDIZ\PEDRO\calcular MIC\calcular MIC\obj\Debug\netcoreapp3.1\calcular MIC.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\ZNOP_APRENDIZ\PEDRO\calcular MIC\calcular MIC\obj\Debug\netcoreapp3.1\calcular MIC.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\ZNOP_APRENDIZ\PEDRO\calcular MIC\calcular MIC\obj\Debug\netcoreapp3.1\calcular MIC.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\ZNOP_APRENDIZ\PEDRO\calcular MIC\calcular MIC\obj\Debug\netcoreapp3.1\calcular MIC.dll
+C:\Users\Windows 10\Desktop\ZNOP_APRENDIZ\PEDRO\calcular MIC\calcular MIC\obj\Debug\netcoreapp3.1\calcular MIC.pdb
+C:\Users\Windows 10\Desktop\ZNOP_APRENDIZ\PEDRO\calcular MIC\calcular MIC\obj\Debug\netcoreapp3.1\calcular MIC.genruntimeconfig.cache

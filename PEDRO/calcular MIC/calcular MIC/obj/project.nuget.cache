@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A4NUJ8VXPlO5XPM2TTNs+1AGlEc+gdPH18COoCC2LcPykkK5YoKyBHRYQJT5jQy1msgEb0tIDuIdW9o6qqzQUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Windows 10\\Desktop\\ZNOP_APRENDIZ\\PEDRO\\calcular MIC\\calcular MIC\\calcular MIC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

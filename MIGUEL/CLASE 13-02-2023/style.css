@@ -4,33 +4,69 @@
     margin:0;
     padding:0;
     box-sizing:border-box;
-    background-color:#1e1d2b;
     font-family: 'Poppins', sans-serif;
+} 
+
+a {
+    list-style: none;
+    cursor: pointer;
+    padding: 1.5vw;
 }
-            
+
+a:hover{
+    border: 2px solid #ff702a;
+    border-radius: 1cm;
+   
+    padding: 10px 30px;
+}
+
+span{
+    background-color: #ff702a;
+    border-radius: 0.5cm;
+    padding: 30px 30px;
+}
+
 .navbar-brand{
     color: #ff702a !important;
     font-size: 40px;
-    padding:10px 30px ;
-    
 }
 
 .nav-link{
+    text-align: center;
     color: #fff !important;
-    font-size: 20px;
-    padding:10px 30px ;
-    font-weight: 500;
+    font-size: 20px; 
+    
 }
 
-header{
-    position: fixed;
-    top: 0;
-    right: 0;
-    width: 100%;
-    z-index: 1000;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 30px 150px;
-    background: #1e1c2a;
+.float-end{
+    background-color: aqua;
+}
+
+.caja1{
+    background-color: #ff702a;
+}
+
+.caja2{
+    background-color: #5c8d55;
+}
+
+.caja3{
+    background-color: #ff2ae3;
+}
+
+.caja4{
+    background-color: #632aff;
+}
+
+.ltitulo{
+    font-size: 50px;
+}
+
+.lintermedia{
+    font-size: 30px;
+}
+
+.lpequeña{
+    font-size: 30px;
+    color: #fff;
 }
