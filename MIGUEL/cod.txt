@@ -1,0 +1,72 @@
+<section class="dos">
+  <p>Food Menu</p>
+  <p>Fresh taste and grat price</p>
+
+  <img src="img/food1.png" class="">
+  <img src="img/food2.png">
+  <img src="img/food3.png">
+</section>
+
+<section class="tres">
+  <p>Services</p>
+  <p>We provide best food services</p>
+
+  <img src="img/s1.png">
+  <p>Order</p>
+  <p>We provide best food services</p>
+
+  <img src="img/s2.png">
+  <p>Shipping</p>
+  <p>We provide best food services</p>
+
+  <img src="img/s3.png">
+  <p>Dellvered</p>
+  <p>It is a long estabilished be distracted by the readable looking at its layout</p>
+</section>
+
+<section class="cuatro">
+  <p>We make quality food Everyday</p>
+  <p>Dellvered</p>
+</section>
+
+<section class="cinco">
+
+  <!-- parte 1 -->
+  <div class="caja1"><ul>Menu Links</ul>
+    <ul>Home</ul>
+    <ul>About</ul>
+    <ul>Menu</ul>
+    <ul>Service</ul>
+    <ul>Contact</ul>
+  </div>
+  
+  <!-- parte 2 -->
+  <div class="caja2">
+    <ul>Our Service</ul>
+    <ul>Web Design</ul>
+    <ul>Web Development</ul>
+    <ul>Marketing</ul>
+    <ul>Product Management</ul>
+    <ul>Graphic Design</ul>
+  </div>
+  
+  
+  <!-- parte 3 -->
+  <div class="caja3">
+    <ul>Information</ul>
+    <ul>About Us</ul>
+    <ul>Delivery Information</ul>
+    <ul>Privacy Policy</ul>
+    <ul>Terms & conditions</ul>
+  </div>
+  
+  
+  <!-- parte 4 -->
+  
+  <div class="caja4">
+    <ul>Contact Us</ul>
+    <img src="">
+    <img src="">
+    <img src="">
+    <img src="">
+  </div>
